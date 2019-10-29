@@ -1,7 +1,8 @@
 import React , {Component} from 'react';
 import CardList from './CardList';
 import {robots} from './Robots';
-import SearchBox from './SearchBox'
+import SearchBox from './SearchBox';
+
 
 class App extends Component {
 	constructor (){
