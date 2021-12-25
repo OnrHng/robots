@@ -65,5 +65,11 @@ export const robots = [
     "name": "Ugurcuk",
     "username": "Ugurcuk6",
     "email": "ugurcuk6@funny.com",
+  },
+  {
+    "id": 12,
+    "name": "Edacik",
+    "username": "Edacik3",
+    "email": "edacik3@funny.com",
   }
 ]
